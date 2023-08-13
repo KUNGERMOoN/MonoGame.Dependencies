@@ -1,0 +1,3 @@
+[submodule "BCnEncoder.Net"]
+	path = BCnEncoder.Net
+	url = https://github.com/Nominom/BCnEncoder.Net.git
